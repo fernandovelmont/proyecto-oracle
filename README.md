@@ -5,5 +5,6 @@
 ### Que es  SCRUM
 Aqui vas a describir que es SCRUM!!
 
-
+<center>
 ![ESTA ES UNA IMAGEN](http://inovabiz.com/images/metodologia.png)
+</center>
