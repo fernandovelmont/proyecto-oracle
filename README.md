@@ -6,4 +6,4 @@
 Aqui vas a describir que es SCRUM!!
 
 
-[ESTA ES UNA IMAGEN](http://www.siliconweek.com/wp-content/uploads/2016/11/oracle-logo.jpg)
+![ESTA ES UNA IMAGEN](http://www.siliconweek.com/wp-content/uploads/2016/11/oracle-logo.jpg)
